@@ -1,0 +1,25 @@
+{
+  "name": "aws-add-tags-load-balancer",
+  "version": "0.0.1",
+  "description": "Add Tags to AWS Load Balancer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamqma/AWS-Add-Tags-Load-Balancer.git"
+  },
+  "keywords": [
+    "AWS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamqma/AWS-Add-Tags-Load-Balancer/issues"
+  },
+  "homepage": "https://github.com/liamqma/AWS-Add-Tags-Load-Balancer#readme",
+  "dependencies": {
+    "aws-sdk": "^2.277.1"
+  }
+}
