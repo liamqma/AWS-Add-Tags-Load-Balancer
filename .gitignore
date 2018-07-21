@@ -1,5 +1,5 @@
 node_modules
-credentials.json
+credentials.*
 
 # Ignore .DS_Store files on OS X
 .DS_Store

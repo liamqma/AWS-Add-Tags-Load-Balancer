@@ -20,6 +20,11 @@
   },
   "homepage": "https://github.com/liamqma/AWS-Add-Tags-Load-Balancer#readme",
   "dependencies": {
-    "aws-sdk": "^2.277.1"
-  }
+    "aws-sdk": "^2.277.1",
+    "invariant": "^2.2.4",
+    "js-yaml": "^3.12.0",
+    "lodash": "^4.17.10",
+    "yargs": "^12.0.1"
+  },
+  "bin": "./index.js"
 }
